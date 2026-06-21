@@ -12,4 +12,4 @@ Système de volet roulant — Piloté par un automate Siemens S7-1200, conçu av
 Il est actuellement à la recherche d'une alternance en Automatisme & Informatique Industrielle.
 
 
-Lien: ian-arnauld.netlify.app
+Lien[ian-arnauld.netlify.app]
